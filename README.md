@@ -1,4 +1,4 @@
-##GitZipper
+## GitZipper
 
 [![执照:麻省理工学院](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
