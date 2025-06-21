@@ -1,4 +1,8 @@
-# GitZipper
+# Gi# GitZipper
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+一个简单易用的GitHub仓库下载工具，允# GitZipper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -26,17 +30,3 @@ GitZipper可以轻松部署到任何静态网站托管服务，如GitHub Pages�
 ## 贡献
 
 欢迎任何形式的贡献，包括但不限于代码改进、文档更新或新功能建议。请通过GitHub Issues或Pull Requests提交你的想法或改进。
-
-## 许可证
-
-GitZipper是一个开源项目，采用MIT许可证。这意味着你可以自由地使用、修改和分发此软件，只需遵循许可证中的条款。详细条款请参见[MIT License](https://opensource.org/licenses/MIT)。
-
-## 联系
-
-如果你有任何问题或建议，可以通过以下方式联系我：
-作者:暮雪微晴
-哔哩哔哩:https://space.bilibili.com/3493294795393244
-
-- GitHub:https://github.com/Twilightsnow2009
-
-感谢使用GitZipper
