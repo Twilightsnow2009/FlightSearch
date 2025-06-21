@@ -1,12 +1,8 @@
-## GitZipper
+##GitZipper
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![执照:麻省理工学院](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-一个简单易用的GitHub仓库下载工具，允# GitZipper
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-一个简单易用的GitHub仓库下载工具，允许用户通过官方链接或自定义接口下载整个GitHub仓库或特定文件夹。
+一个简单易用的开源代码库仓库下载工具,允许用户通过官方链接或自定义接口下载整个开源代码库仓库或特定文件夹。
 
 ## 功能
 
