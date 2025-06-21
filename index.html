@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitZipper</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>GitZipper</h1>
+        <input type="text" id="repoUrl" placeholder="输入GitHub仓库链接">
+        <input type="text" id="branchName" placeholder="输入分支名称" value="main">
+        <input type="text" id="customApi" placeholder="输入自定义接口（可选）">
+        <button onclick="download()">下载仓库</button>
+        <div class="status" id="status"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
