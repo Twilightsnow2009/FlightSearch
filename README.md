@@ -1,4 +1,4 @@
-## GitZipper
+##GitZipper
 
 [![执照:麻省理工学院](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -6,17 +6,17 @@
 
 ## 功能
 
-- **官方下载**：直接从GitHub官方链接下载整个仓库。
+- **官方下载**：直接从开源代码库官方链接下载整个仓库。
 - **自定义接口**：支持通过用户指定的自定义接口下载仓库。
 
 ## 自定义接口格式
 
-如果你想要使用自定义接口来下载GitHub仓库，你需要按照以下格式输入接口地址：
+如果你想要使用自定义接口来下载开源代码库仓库,你需要按照以下格式输入接口地址：
 https://your-custom-api.com/https://github.com/Twilightsnow2009/GitZipper/archive/refs/heads/main.zip
 1.`https://your-custom-api.com/` 是你的自定义接口地址。
 - 2.`https://github.com/Twilightsnow2009/GitZipper/archive/refs/heads/main.zip` 是GitHub仓库的下载链接。
 - ## 演示网址
-- 演示网址:https://share.htmlput.com/p/s700td2x7c?lang=zh 温馨提示:由于该域名的服务器在境外,该网站使用免费托管服务。 请勿输入任何敏感信息,如因访问该网站时造成的所有损失,该项目开发者不承担任何责任！！！
+- 演示网址:https://twilightsnow2009.github.io/GitZipper/
 
 ## 部署
 
